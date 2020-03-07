@@ -1,1 +1,3 @@
-// TODO: think of funny first that editor will approve.
+Git In Practice makes
+...
+Git In Perfect!
