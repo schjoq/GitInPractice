@@ -1,4 +1,1 @@
-Git In Practice makes
-...
-Git In Perfect!
-// Is this funny?
+// Think of a new first line that editor will approve.
